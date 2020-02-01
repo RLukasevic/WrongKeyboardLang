@@ -1,0 +1,14 @@
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\KeyboardSH.exe.config
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\KeyboardSH.exe.manifest
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\KeyboardSH.application
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\KeyboardSH.exe
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\KeyboardSH.pdb
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\KeyboardSH.exe.manifest
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\KeyboardSH.application
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\KeyboardSH.exe
+C:\Users\Robert\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\KeyboardSH.pdb
